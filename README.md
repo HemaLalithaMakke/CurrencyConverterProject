@@ -20,6 +20,7 @@ I'm excited to introduce this web application that I've developed to simplify cu
 - Enhance currency data with additional information and historical rates.
 - Implement offline capabilities to cache exchange rates for uninterrupted use.
 - Introduce multi-language support to cater to diverse global users.
+![Screenshot 2024-06-22 230210](https://github.com/HemaLalithaMakke/CurrencyConverterProject/assets/172250819/a703d799-a9a3-417f-9495-ba0d11dcac1c)
 
 
 This project aims to streamline currency conversions while prioritizing usability and accessibility, making it an essential tool in the realm of financial technology (FinTech).
